@@ -1,4 +1,8 @@
 .idea/
-lib/
-project/project
+#lib/
 target/
+project/project
+project/.ivy/
+project/.boot/
+project/.sbtboot/
+
